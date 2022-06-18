@@ -7,4 +7,4 @@ For high availability there shouldn't be any single point of failure and we shou
 
 Below is the infrastructure diagram that visualises what this cloudformation script deploys:
 
-![diagram](./Daniel-Njoku-Project-2 - Deploy-aws-cloudFormation-high-availability-web-app (June 2022).png)
+![Diagram](./Daniel-Njoku-Project-2-Deploy-aws-cloudFormation-high-availability-web-app(June 2022).png)
